@@ -1,0 +1,15 @@
+*.vcxproj
+*.vcxproj.filters
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+*.sln
+*.vs/
+Debug/
+Release/
+*.VC.db
+*.dir/
+progress
+level_*
+*.VC.opendb
+imgui.ini
